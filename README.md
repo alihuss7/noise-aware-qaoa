@@ -76,7 +76,7 @@ Add `--help` to inspect every CLI flag.
 | `qaoa_records.json`   | Bundle with config + layout metrics  |
 | `qaoa_ratio_vs_p.png` | Approximation ratio vs depth (`p`)   |
 
-## 📓 Notebook
+## Notebook
 
 Open `example_usage.ipynb` for:
 
@@ -86,7 +86,7 @@ Open `example_usage.ipynb` for:
 
 Launch after installing requirements and attaching a Jupyter kernel in the same environment.
 
-## ✅ Testing
+## Testing
 
 Run the suite:
 
