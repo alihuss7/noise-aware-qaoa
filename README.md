@@ -131,24 +131,6 @@ Override via `run_suite_maxcut` args or CLI flags `--p1`, `--p2`, `--readout`.
 
 See `requirements.txt` for pinned versions (Qiskit 2.2+, qiskit-aer, NumPy, Pandas, Matplotlib). Install hardware or GPU backends separately if needed.
 
-## Contributing
-
-PRs welcome—keep changes tested (unit tests or notebook snippets).
-
 ## License
 
 MIT License (`LICENSE`).
-
-## Citation
-
-```bibtex
-@software{noise_aware_qaoa,
-  title={Noise-Aware QAOA Mini-Suite},
-  year={2025},
-  url={https://github.com/yourusername/noise-aware-qaoa}
-}
-```
-
----
-
-If this toolkit helps your QAOA studies, a ⭐️ is always appreciated!
